@@ -1,5 +1,5 @@
 # Zindi-UmojaHack-South-Africa-Yassir-ETA-Prediction-Challenge
-1 day Zindi Hackathon competition
+1 day Zindi Hackathon competition - CatBoost Regression model
 
 The UmojaHack South Africa: Yassir ETA Prediction Challenge by UmojaHack Africa was hosted on the 25th of July 2020 and had a 9 hours constraint. I entered as an individual and my model ranked 13 out of 119.
 
